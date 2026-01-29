@@ -5,7 +5,7 @@ import markdownItTaskLists from "markdown-it-task-lists";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { shikiPlugin } from '@vuepress/plugin-shiki'
 
-const base = "/bilibili-API-collect/";
+const base = "/";
 
 export default defineUserConfig({
   bundler: viteBundler(),
