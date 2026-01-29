@@ -5,8 +5,8 @@
   "author": "SocialSisterYi <1440239038@qq.com>",
   "license": "CC-BY-NC-4.0",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.24",
