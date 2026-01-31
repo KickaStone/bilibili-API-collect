@@ -43,6 +43,7 @@ export default defineUserConfig({
     docsBranch: "master",
     editLinkText: "在 GitHub 上编辑此页",
     colorMode: "auto",
+    contributors: false,
     themePlugins: {
       prismjs: false
     }
